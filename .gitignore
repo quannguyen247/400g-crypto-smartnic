@@ -1,11 +1,11 @@
 # Vivado generated files
-Implementation/bnn.cache/
-Implementation/bnn.hw/
-Implementation/bnn.ip_user_files/
-Implementation/bnn.sim/
-Implementation/bnn.runs/
-Implementation/bnn.srcs/
-Implementation/bnn.ioplanning/
+Implementation/400g_nic.cache/
+Implementation/400g_nic.hw/
+Implementation/400g_nic.ip_user_files/
+Implementation/400g_nic.sim/
+Implementation/400g_nic.runs/
+Implementation/400g_nic.srcs/
+Implementation/400g_nic.ioplanning/
 Implementation/.Xil/
 
 # Simulation outputs
